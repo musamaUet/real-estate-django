@@ -1,4 +1,5 @@
 """
+WSGI stands for Web Server Gateway Interface
 WSGI config for real_estate project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
