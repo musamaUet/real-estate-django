@@ -145,3 +145,10 @@ MEDIA_URL = '/media/'
 MESSAGE_TAGS = {
     messages.ERROR: 'danger',
 }
+
+# Email config
+EMAIL_HOST = 'smtp.gmail.host'
+EMAIL_PORT = 587
+EMAIL_HOST_USER = '2016cs507@student.uet.edu.pk'
+EMAIL_HOST_PASSWORD = ''
+EMAIL_USE_TLS = True
