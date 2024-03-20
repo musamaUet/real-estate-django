@@ -6,5 +6,6 @@
 ##### setup python3 virtual env
 ##### setup postgresql database and create a database with name btredb
 ##### python manage.py collectstatic
+##### python manage.py makemigrations
 ##### python manage.py migrate
 ##### python manage.py runserver
