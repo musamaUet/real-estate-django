@@ -8,6 +8,8 @@ db.sqlite3
 db.sqlite3-journal
 /media
 /static
+*/static/css
+/static/css/all.css
 
 # Environments
 venv/
